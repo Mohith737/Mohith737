@@ -18,7 +18,7 @@
   <a href="mailto:nandikamohith@gmail.com">
     <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/nandika-mohith">
+  <a href="https://www.linkedin.com/in/mohith-nandika/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Mohith737">

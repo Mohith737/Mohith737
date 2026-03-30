@@ -87,13 +87,13 @@
 </p>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mohith737&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mohith737&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </div>
 
 <br><br>
 
 <!-- 🏆 GitHub Profile Trophy -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Mohith737&theme=tokyonight&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Mohith737&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- 🚀 GitHub Stats -->
 ![Mohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohith737&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
@@ -102,7 +102,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mohith737&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 <!-- 📊 Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith737&theme=tokyonight&hide_border=false&layout=compact&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith737&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 

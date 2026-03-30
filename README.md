@@ -35,6 +35,52 @@
   </a>
 </div>
 
+## 👨💻 About Me
+
+- 💼 **Full Stack Engineer Intern @ Think41, Bengaluru** *(Feb 2026 – Present)*
+- 🎓 **B.Tech in Computer Science @ VIT-AP University** *(2022 – 2026 | CGPA: 8.08)*
+- 🤖 Building production-grade **AI-powered and Agentic systems** using Google ADK & LLM pipelines
+- Shipped **HireLogic** – an AI recruitment platform processing 50+ candidates concurrently
+- 🌱 Deep interest in **System Design, Agentic AI, Scalable Backends, and Cloud Deployment**
+- 💬 Ask me about **Java, Python, React, Spring Boot, FastAPI, Docker, or AI Agents**
+- 📫 Reach me at **nandikamohith@gmail.com**
+
+---
+
+## 💼 Experience
+
+### Full Stack Engineer Intern | Think41 – Bengaluru *(Feb 2026 – Present)*
+- Built and shipped **HireLogic** and **MultiBank** – production-grade platforms handling **1K+ daily requests**
+- Optimized backend queries reducing average response time by **30%** through indexing, caching, and connection pooling
+- Delivered end-to-end features across agile sprints in a professional engineering team
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**HireLogic-Agentic**](https://github.com/Mohith737/HireLogic-Agentic) | AI recruitment platform using Google ADK — reduces resume screening time by 70% | Python, Google ADK, LLM, PostgreSQL, Docker |
+| [**MultiBank-Transaction-Platform**](https://github.com/Mohith737/MultiBank-Transaction-Platform) | Secure multi-bank transaction & authentication platform | Java, Spring Boot, Spring Security, PostgreSQL |
+| [**Multi-Tenant-Loan-EMI-Platform**](https://github.com/Mohith737/Multi-Tenant-Loan-EMI-Platform) | Multi-tenant loan origination & EMI management system | Java, Spring Boot, Docker, PostgreSQL |
+| [**B2B-Warehouse-Management-System**](https://github.com/Mohith737/B2B-Warehouse-Management-System) | End-to-end B2B warehouse operations platform | Python, FastAPI, React, Docker, PostgreSQL |
+| [**MetroSense-Agentic**](https://github.com/Mohith737/MetroSense-Agentic) | Agentic metro sensing and analytics platform | Python, FastAPI, React, Google ADK, Docker |
+| [**MarketReel**](https://github.com/Mohith737/MarketReel) | AI-driven market content and strategy platform | Python, FastAPI, React, Docker |
+| [**FarmWise-Agentic**](https://github.com/Mohith737/FarmWise-Agentic) | AI agricultural advisory and decision platform | Python, FastAPI, React, Docker |
+| [**Hospital-Patient-Dietetics-Delivery**](https://github.com/Mohith737/Hospital-Patient-Dietetics-Delivery) | Hospital patient diet management & delivery system | TypeScript, React, FastAPI, PostgreSQL |
+| [**OpsCopilot-Investigation-Agentic**](https://github.com/Mohith737/OpsCopilot-Investigation-Agentic) | Agentic operations copilot for investigation workflows | Python, FastAPI, React, Docker |
+| [**StreamPilot-OTT-Strategy-Agentic**](https://github.com/Mohith737/StreamPilot-OTT-Strategy-Agentic) | AI-powered OTT content strategy & greenlighting agent | Python, FastAPI, React, Docker |
+| [**Physics-Lectures-Agentic**](https://github.com/Mohith737/Physics-Lectures-Agentic) | Agentic physics lecture playlist and learning platform | Python, FastAPI, React, Docker |
+| [**Ecommerce-Frontend-Platform**](https://github.com/Mohith737/Ecommerce-Frontend-Platform) | Modern full-stack e-commerce frontend platform | TypeScript, React, Node.js, Vite |
+
+---
+
+## 🏆 Certifications
+- 🏅 **MongoDB Database Administration**
+- **AWS Cloud Foundation**
+
+---
+
 <!-- Snake Contribution Animation -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
@@ -66,6 +112,8 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -82,9 +130,31 @@
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### 🤖 AI / Agentic Engineering
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-00B4D8?style=for-the-badge)
+![Agent Orchestration](https://img.shields.io/badge/Agent%20Orchestration-6A0DAD?style=for-the-badge)
+
+### 🌐 Frameworks & Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ### 🧩 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

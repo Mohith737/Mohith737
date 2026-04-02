@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I+am+Nandika+Mohith;Welcome+to+My+Developer+Universe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00D9FF&size=28&lines=Hey!+I'm+Mohith+Nandika!;Full+Stack+Engineer+%40+Think41;Building+AI+%26+Agentic+Systems;React+%7C+Spring+Boot+%7C+FastAPI+%7C+Google+ADK;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohith737&label=Profile%20Views&color=00D9FF&style=flat-square" alt="views on github" />
 </p>
 
 <div align="center">
@@ -81,6 +85,43 @@
 
 ---
 
+## 👨💻 Competitive Coding
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### LeetCode
+<a href="https://leetcode.com/u/mohith_20038/">
+<img src="https://leetcard.jacoblin.cool/mohith_20038?theme=dark&extension=activity"/>
+</a>
+
+</td>
+<td width="33%" align="center">
+
+### CodeChef
+<a href="https://www.codechef.com/users/mohith_20038">
+<img src="https://img.shields.io/badge/CodeChef-mohith__20038-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<br><br>
+<a href="https://www.codechef.com/users/mohith_20038">
+<img src="https://cp-logo.vercel.app/codechef/mohith_20038"/>
+</a>
+
+</td>
+<td width="33%" align="center">
+
+### HackerRank
+<a href="https://www.hackerrank.com/profile/nandikamohith">
+<img src="https://img.shields.io/badge/HackerRank-nandikamohith-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- Snake Contribution Animation -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
@@ -134,9 +175,12 @@
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-00B4D8?style=for-the-badge)
 ![Agent Orchestration](https://img.shields.io/badge/Agent%20Orchestration-6A0DAD?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-FF6F00?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-000000?style=for-the-badge)
 
 ### 🌐 Frameworks & Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -144,7 +188,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Cloud & DevOps
+###  Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
